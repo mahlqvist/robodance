@@ -1,2 +1,3 @@
-# robodance
-A dancing robot with CSS Animation
+# Robodance
+
+A dancing robot made with only HTML and CSS
